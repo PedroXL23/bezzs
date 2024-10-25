@@ -1,0 +1,111 @@
+index.css
+body{
+    color: black;
+    background-color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+    display:flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 10px;
+}
+
+a{
+    color: black;
+    text-decoration:  none;
+}
+
+img{
+    width: 190px;
+    height: 190px;
+    border-radius: 50%;
+    border: 5px solid lightskyblue;
+    
+}
+
+.center{
+    text-align: center;
+}
+
+nav a:hover {
+    color: lightskyblue;
+
+}
+
+.tela{
+    background-color: rgba(0, 0, 0, 0.9 );
+    position:absolute;
+   text-align: center;
+   top: 50%;
+   left: 50%;
+   transform:translate(-50%,-50%);
+   border-radius:15px;
+   color: white;
+   
+}
+
+
+.nome{
+    border:none;
+    outline: none;
+    border-radius:10px;
+}
+
+
+.senha{
+    border:none;
+    outline:none;
+    border-radius:10px;
+}
+
+.botao{
+    background-color: dodgerblue;
+    border:none;
+    border-radius:10px;
+    color:white;
+    cursor: pointer;
+}
+
+.botao:hover{
+    background-color: green;
+}
+
+body{
+    color: black;
+    background-color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius:50%;
+    border: 5px solid lightskyblue;
+}
+
+
+.center{
+    text-align: center;
+}
+
+body{
+    color: black;
+    background-color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 5px solid lightskyblue;
+}
+
+.center{
+    text-align: center;
+}
